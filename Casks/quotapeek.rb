@@ -1,6 +1,6 @@
 cask "quotapeek" do
-  version "0.6.0"
-  sha256 "1fbf5e44927b10f90d740251eeba1a64785795eedd5f46c005610975b229e497"
+  version "0.7.0"
+  sha256 "71a47366d472b34714b71e1a8529479da439599a05a15122c8cd7ea123e5792c"
 
   url "https://github.com/geraldooi/quotapeek/releases/download/v#{version}/QuotaPeek-#{version}.zip"
   name "QuotaPeek"
